@@ -106,15 +106,6 @@ These plots are ready to drop into a PowerPoint or Power BI report.
 
 ---
 
-## Relevance to Mazda Role
-
-- Demonstrates **data analysis experience** on real industrial multivariate time-series.
-- Uses modern deep learning (CNN + LSTM) instead of simple thresholds.
-- Produces clean, reproducible results and visualizations that can be shown in interviews.
-- Code is modular and well-commented – easy to extend to other equipment or to add SHAP / attention explanations later.
-
----
-
 ## References
 
 - Saxena & Goebel (2008). Turbofan Engine Degradation Simulation Data Set. NASA Ames Prognostics Data Repository.
