@@ -1,6 +1,6 @@
 # CMAPSS Turbofan Engine Remaining Useful Life (RUL) Prediction
 
-**Deep Learning Project for Predictive Maintenance – Mazda Data Analysis Skill Demonstration**
+**Deep Learning Project for Predictive Maintenance **
 
 This project implements an end-to-end **CNN-LSTM hybrid deep learning pipeline** to predict the Remaining Useful Life (RUL) of aircraft turbofan engines using the NASA C-MAPSS benchmark dataset (FD001, FD002, FD003).
 
