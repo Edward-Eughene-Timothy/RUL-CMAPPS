@@ -110,5 +110,4 @@ For each subset you will find:
 
 ---
 
-**Author**: Prepared as a portfolio project for data-analysis / predictive-maintenance skill demonstration.
-# RUL-CMAPPS
+**Author**: Prepared as a portfolio project for data-analysis / predictive-maintenance skill demonstration for Tata ELSXI hackathon
