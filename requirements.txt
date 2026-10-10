@@ -1,0 +1,7 @@
+torch>=2.0
+numpy>=1.21
+pandas>=1.3
+scikit-learn>=1.0
+matplotlib>=3.5
+seaborn>=0.12
+joblib>=1.1

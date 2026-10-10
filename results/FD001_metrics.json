@@ -1,0 +1,27 @@
+{
+  "subset": "FD001",
+  "model": "cnn_lstm",
+  "rmse": 17.04230308532715,
+  "mae": 13.554228782653809,
+  "score": 676.41845703125,
+  "n_train_seq": 17731,
+  "n_test_engines": 100,
+  "sequence_length": 30,
+  "features": [
+    "sensor_2",
+    "sensor_3",
+    "sensor_4",
+    "sensor_7",
+    "sensor_8",
+    "sensor_9",
+    "sensor_11",
+    "sensor_12",
+    "sensor_13",
+    "sensor_14",
+    "sensor_15",
+    "sensor_17",
+    "sensor_20",
+    "sensor_21"
+  ],
+  "best_epoch": 30
+}
