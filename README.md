@@ -4,8 +4,6 @@
 
 This project implements an end-to-end **CNN-LSTM hybrid deep learning pipeline** to predict the Remaining Useful Life (RUL) of aircraft turbofan engines using the NASA C-MAPSS benchmark dataset (FD001, FD002, FD003).
 
-It directly addresses the **data analysis / data analysis experience** requirement listed in the Mazda job description (歓迎条件 / Preferred conditions).
-
 ---
 
 ## Results Summary
@@ -101,8 +99,6 @@ For each subset you will find:
    - Predicted vs True RUL scatter
    - Error (Pred − True) histogram
    - Sorted true vs predicted RUL comparison across all test engines
-
-These plots are ready to drop into a PowerPoint or Power BI report.
 
 ---
 
